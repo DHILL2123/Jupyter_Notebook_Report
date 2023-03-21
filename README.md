@@ -46,16 +46,16 @@ I have decided to find potential reasons our customers are leaving and provide r
   * Evaluated the highest accuracy model on the test dataset
  
  #Data Dictionary
- Feature : Definition 
+ *Feature : Definition 
  
- Tenure  : The number of months a customer is with the company
+ *Tenure  : The number of months a customer is with the company
  Monthly
  
- Charges : The total amount the customer pays per month
+ *Charges : The total amount the customer pays per month
  Total
  Charges : The total amount the customer pays over their tenure
  
- Contract
+ *Contract
  Type ID : Separates service as month-to-month, one-year contract, or two-year contract.
  
  
