@@ -47,17 +47,17 @@ I have decided to find potential reasons our customers are leaving and provide r
  
  #Data Dictionary
  
- *Feature : Definition 
+  *Feature : Definition 
  
- *Tenure  : The number of months a customer is with the company
- Monthly
+  *Tenure  : The number of months a customer is with the company
+  Monthly
  
- *Charges : The total amount the customer pays per month
- Total
- Charges : The total amount the customer pays over their tenure
+  *Charges : The total amount the customer pays per month
+  Total
+  Charges : The total amount the customer pays over their tenure
  
- *Contract
- Type ID : Separates service as month-to-month, one-year contract, or two-year contract.
+  *Contract
+  Type ID : Separates service as month-to-month, one-year contract, or two-year contract.
  
  
  #Steps to reproduce
